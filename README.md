@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Finance Tracker App
 
 A full-stack finance tracking application built with FastAPI (Backend) and React (Frontend).
@@ -126,3 +127,6 @@ The frontend application will be available at http://localhost:3000
 You can register a new user or use these test credentials:
 - Email: test@example.com
 - Password: test123
+=======
+# financetracker
+>>>>>>> d8909bf2c484cd844f88f495e91e52e14c64de20
